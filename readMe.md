@@ -8,4 +8,6 @@
 
 ### 1、boosting的基本模型使用（包括GBDT、XGBoost、LightGBM、CatBoost、NGBoost）
 
-### 2、待续
+### 2、titanic数据的实践（包括数据清洗，网格搜索，自动机器学习）
+
+### 3、待续
